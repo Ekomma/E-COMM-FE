@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+.udl:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+main {
+  min-height: 80vh;
+}
+
+.flex-grow-reset {
+  flex-grow: 0;
+}
+
+.nav-icon  i {
+  margin-right: 4px;
+}
+
+.rating i {
+  color: #f8e825;
+  margin-right: .2rem;
+}
+.rating span {
+  margin-right: .2rem;
+}
